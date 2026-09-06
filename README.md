@@ -52,38 +52,7 @@ I enjoy building practical projects that combine programming, AI, web technologi
 
 ## 📌 Projects
 
-### 🤖 AI Business Document Automation
 
-AI-powered workflow for processing business documents, extracting useful information, converting unstructured data into structured data, and automating subsequent business processing steps.
-
-**Focus:**  
-`AI` `Document Processing` `Workflow Automation` `APIs` `Business Process Automation`
-
-> 🚧 Project in development
-
----
-
-### 🤖 AI Customer Support Automation
-
-AI-powered customer-support workflow for classifying customer queries, generating appropriate responses, storing relevant information, and automating support processes.
-
-**Focus:**  
-`Generative AI` `Python` `Flask` `REST APIs` `Automation` `Database`
-
-> 🚧 Project in development
-
----
-
-### 📄 AI Resume Screening & Job Matching
-
-AI-based application for analyzing resumes against job descriptions, extracting relevant skills, identifying missing skills, and generating candidate-job matching analysis.
-
-**Focus:**  
-`AI` `NLP` `Python` `React` `Flask` `Data Processing`
-
-> 🚧 Project in development
-
----
 
 ### 🎮 Grid App
 
